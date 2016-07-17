@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Nordic Escape]]></title>
+        <description><![CDATA[The Nordic Escape]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Jul 2016 18:58:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[THE NORDIC ESCAPE]]></title>
+            <description><![CDATA[<p>The world class beauty, terrain and single tracks of Norway is a class of its own. This proposed inaugural event of 2017 will put Norway on the map as the ultimate mountain biking destination and allows riders to experience this spectacular beauty while riding one of the toughest stage races the world.</p>]]></description>
+            <link>undefinedthe-nordic-escape/index.html</link>
+            <guid isPermaLink="false">2f261d1d-5507-47f1-8ee6-2e76409748bd</guid>
+            <pubDate>Sun, 17 Jul 2016 18:58:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
