@@ -1,0 +1,28 @@
+name: The Nordic Escape
+favicon: null
+layout_spectrum: 0.9732626315671951
+typography_spectrum: 0.8482367875985801
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9643422563094646
+  lightness: 0.28735229512676597
+  saturation: 0.974076111568138
+  rhythmicContrast: 0.6570231856312603
+purpose: []
